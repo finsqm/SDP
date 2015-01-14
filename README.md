@@ -10,3 +10,8 @@ Finlay  Mcafee   S1220880 +447447019638
 ----------
 Michaeil    Nelson  S1223336
 Christopher White   S1238020 
+
+##main - website
+
+course - http://www.inf.ed.ac.uk/teaching/courses/sdp/
+wiki   - https://wiki.inf.ed.ac.uk/SDP/WebHome

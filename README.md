@@ -13,5 +13,6 @@
 
 ##main - website
 
-* https://wiki.inf.ed.ac.uk/SDP/WebHomeourse - http://www.inf.ed.ac.uk/teaching/courses/sdp/
+* main   - http://www.inf.ed.ac.uk/teaching/courses/sdp/
 * wiki   - https://wiki.inf.ed.ac.uk/SDP/WebHome
+* trello - https://trello.com/sdpgroup10

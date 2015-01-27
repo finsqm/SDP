@@ -5,7 +5,9 @@
 \> virtualenv -p /usr/bin/python2.7 venv
 
 \> source venv/bin/activate
-
+\> pip install -r requirements.txt (only one time)
+\> cd webGUI 
+\> python app.py
 ##People
 
 * Paul    Scott    S1126779 +447403455564
